@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/test.js"],"names":["a","b","x"],"mappings":"aAAA,GAAMA,GAAI,EAAV,CACA,GAAMC,GAAI,QAAJA,EAAI,CAACC,CAAD,QAAO,IAAKA,CAAZ,EAAV","file":"test.js","sourcesContent":["const a = 10\nconst b = (x) => 10 * x\n\n"]}
